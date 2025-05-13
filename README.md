@@ -16,12 +16,12 @@ Before running the project, make sure you have the following installed:
 
 ### 2. Install dependicies
 npm install
-# or
+   or
 yarn install
 
 ### 3. start the development server
 npm run dev
-# or
+   or
 yarn dev
 
 
